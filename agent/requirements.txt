@@ -9,3 +9,5 @@ python-dotenv
 langchain-core
 langgraph-cli[inmem]
 langchain-groq
+langgraph-core
+pydantic
